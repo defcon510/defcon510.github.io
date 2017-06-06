@@ -6,8 +6,8 @@ The next meeting is:
 
 
 ### June 12
-### Knockout SF
-### Movie starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:45-9:00.
+### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
+### The Movie (Hardcore Henry) starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:45-9:00.
 
 
 If you have any additional questions, email 
@@ -25,6 +25,6 @@ It's SF, yeah. DC510 meetings will always be near a BART station, and if members
 DC510 was started to address the problem of stagnation of other groups in the area. The 510 is still hungry.
 
 
-**Cyberpunk Social Club?**
+**Cyberpunk social club?**
 
 It's about the abuse of technology, not hacking anyone's specific gibson.
