@@ -10,9 +10,9 @@ The next meeting is:
 ### The Movie (Hardcore Henry) starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:45-9:00.
 
 
-If you have any additional questions, email 
-address dc510 at the domain inbox dot russia
-the address associated with this github. Please do not talk business over e-mail. If you're going to be late, send an RSVP.
+If you have any additional questions, email
+address dc510 at the domain inbox period russia
+Please do not talk business over e-mail. If you're going to be late and want us to wait up after the movie, send an RSVP.
 
 
 **Knockout SF, isn't that..?**
