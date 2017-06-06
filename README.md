@@ -27,4 +27,4 @@ DC510 was started to address the problem of stagnation of other groups in the ar
 
 **Cyberpunk social club?**
 
-It's about the abuse of technology, not hacking anyone's specific gibson.
+It's for abusers of technology. We won't fight you over the definition of hacker beyond that. We may have some things to say about punk.
