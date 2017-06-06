@@ -3,9 +3,9 @@ Meetings are currently on the second Monday of each month, immediately following
 
 The next meeting is:
 
-#June 12
-#Knockout SF
-#Movie starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:45-9:00.
+# June 12
+# Knockout SF
+# Movie starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:45-9:00.
 
 If you have any additional questions, email the address associated with this github. Please do not talk business over e-mail. If you're going to be late, send an RSVP.
 
