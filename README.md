@@ -5,7 +5,7 @@ Meetings are currently on the second Monday of each month, immediately following
 The next meeting is:
 
 
-### June 12
+### July 10 (presumed)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
 ### The Movie (Hardcore Henry) starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:45-9:00.
 
