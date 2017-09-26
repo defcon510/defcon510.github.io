@@ -5,9 +5,9 @@ Meetings are currently on the second Monday of each month, immediately following
 The next meeting is:
 
 
-### August 14
+### October 9
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The Movie (Star Trek: First Contact) starts at 6:30, includes some opener, runs 111 minutes, and will probably end around 8:45-9:00.
+### The Movie (The Fly, the one with David Cronenberg) starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:40-8:50.
 
 
 If you have any additional questions, email
@@ -17,7 +17,7 @@ Please do not talk business over e-mail. If you're going to be late and want us 
 
 **Knockout SF, isn't that..?**
 
-It's SF, yeah. DC510 meetings will always be near a BART station, and if members need that to be an East Bay BART station, we can move. For now, Cyberpunk Cinema is a friendly environment, and it's conveniently close in time and location to Deathguild.
+It's SF, yeah. DC510 meetings will always be near a BART station. For now, Cyberpunk Cinema is a friendly environment, and it's conveniently close in time and location to Deathguild. We can move if we find a find a better venue.
 
 
 **Why Does DC510 Exist?**
