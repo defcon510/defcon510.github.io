@@ -5,9 +5,9 @@ Meetings are currently on the second Monday of each month, immediately following
 The next meeting is:
 
 
-### December 11, 2017
+### January 8, 2018
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The Movie (not announced yet) starts at 6:30, includes some opener, runs ? minutes, and will probably end around 8:50-9:00.
+### The Movie (Tron, the original) starts at 6:30, includes some opener, runs 96 minutes, and will probably end around 8:50-9:00.
 
 
 If you have any additional questions, email
