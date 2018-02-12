@@ -11,7 +11,7 @@ The next meeting is:
 
 
 If you have any additional questions, email
-address dc510 at the domain inbox period russia
+address dc510 at the domain protonmail dot com
 Please do not talk business over e-mail. If you're going to be late and want us to wait up after the movie (or if you just want to skip the movie), send an RSVP.
 
 
