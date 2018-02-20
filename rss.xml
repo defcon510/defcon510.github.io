@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+  <channel>
+    <title>DC510</title>
+    <link>http://defcon510.github.io</link>
+    <description>The Wild Wild West</description>
+    <language>en-us</language>
+    <pubDate>Mon, 12 Feb 2018 01:01:01 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2018 01:01:01 GMT</lastBuildDate>
+    <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+    <generator>notepad.exe</generator>
+    <managingEditor>noreply@gmail.com</managingEditor>
+    <webMaster>noreply@gmail.com</webMaster>
+    <ttl>180</ttl>
+
+    <item>
+      <title>DC510 - February Meeting</title>
+      <link>http://defcon510.github.io</link>
+      <description>DC510 - February Meeting
+February 12, 2018
+Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
+The Movie (Zero Theorem) starts at 6:30, includes some opener, runs 111 minutes, and will probably end around 9:00-9:10.
+
+Also, we updated our mailing address!
+</description>
+      <pubDate>Mon, 12 Feb 2018 01:01:01 GMT</pubDate>
+      <guid>http://defcon510.github.io/#001</guid>
+    </item>
+
+  </channel>
+</rss>
