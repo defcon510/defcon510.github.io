@@ -1,13 +1,13 @@
-# DC510: Bring Your Rollerblades
+# DC510: Bring Your Sunglasses
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 
 The next meeting is:
 
 
-### February 12, 2018
+### March 12, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The Movie (Zero Theorem) starts at 6:30, includes some opener, runs 111 minutes, and will probably end around 9:00-9:10.
+### The Movie (They Live) starts at 6:30, includes some opener, runs 94 minutes, and will probably end around 9:00-9:10.
 
 
 If you have any additional questions, email
