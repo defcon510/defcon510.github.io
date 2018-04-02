@@ -1,23 +1,23 @@
-# DC510: Bring Your Sunglasses
+# DC510: Bring Your Refreshable Braille Terminal
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 
 The next meeting is:
 
 
-### March 12, 2018 (Monday)
+### April 9, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The Movie (They Live) starts at 6:30, includes some opener, runs 94 minutes, and will probably end around 9:00-9:10.
+### The Movie (Sneakers) starts at 6:30, includes some opener, runs 126 minutes, and will probably end around 9:20-9:30.
 
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
-Please do not talk business over e-mail. If you're going to be late and want us to wait up after the movie (or if you just want to skip the movie), send an RSVP.
+Please do not talk business in depth over e-mail. If you're going to be late and want us to wait up after the movie (or if you just want to skip the movie and come to the meeting), send an RSVP and we'll wait around for you.
 
 
 **Knockout SF, isn't that..?**
 
-It's SF, yeah. DC510 meetings will always be near a BART station. For now, Cyberpunk Cinema is a friendly environment, and it's conveniently close in time and location to Deathguild. We can move if we find a find a better venue.
+It's SF, yeah. DC510 meetings will always be near a BART station. For now, Cyberpunk Cinema is a friendly environment, and it's conveniently close in time and location to Deathguild. We can move if we find a find a better venue, and are exploring meeting more than once each month. Be advised, the folks at The Knockout are super nice and will not vomit on you for trying to enjoy their wonderful establishment.
 
 
 **Why Does DC510 Exist?**
