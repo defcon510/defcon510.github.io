@@ -1,13 +1,13 @@
-# DC510: Bring Your Refreshable Braille Terminal
+# DC510: Bring A Friend, Ideally A Secret Agent With Laser Binoculars
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 
 The next meeting is:
 
 
-### April 9, 2018 (Monday)
+### May 8, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The Movie (Sneakers) starts at 6:30, includes some opener, runs 126 minutes, and will probably end around 9:20-9:30.
+### The movie this time is a few episodes of Serial Experiments Lain. We don't know when it'll end, but we'll be at the bar through all of it, so if you come early you can talk to us, and we'll probably leave the bar and start a meeting around 9:00-9:15 if the marathon isn't over. Watch this space for more info when we find out, and email us on May 8 if you want us to stick around to see you.
 
 
 If you have any additional questions, email
