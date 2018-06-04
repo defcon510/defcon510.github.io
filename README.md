@@ -1,13 +1,13 @@
-# DC510: Bring A Friend, Ideally A Secret Agent With Laser Binoculars
+# DC510: Bring A Duvet
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 
 The next meeting is:
 
 
-### May 8, 2018 (Monday)
+### June 11, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The movie this time is a few episodes of Serial Experiments Lain. We don't know when it'll end, but we'll be at the bar through all of it, so if you come early you can talk to us, and we'll probably leave the bar and start a meeting around 9:00-9:15 if the marathon isn't over. Watch this space for more info when we find out, and email us on May 8 if you want us to stick around to see you.
+### The movie this time is episodes 4-8 of Serial Experiments Lain. We don't know when it'll end, but we'll be at the bar through all of it, so if you come before 9 you can talk to us there, and we'll probably leave the bar and start a meeting around 9:00-9:15 if the marathon isn't over. Watch this space for more info when we find out, and email us if you want us to stick around to see you.
 
 
 If you have any additional questions, email
