@@ -1,11 +1,16 @@
 # DC510: Our Hangovers Have Worn Off
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
+
 Right now, though, we have a special meeting for August because our regular meeting day fell on the Monday just after defcon, and we were all hung over.
 The new August meeting is:
 ### August 24 (Friday), Arrive at 8:30 PM - 9:00 PM. We'll walk somewhere else after that.
 ### The Lawn at the Corner of Lake Merritt Drive and Lakeside Drive in Oakland
 ### Send us an email if you're running late and need us to stick around.
+
+
+
+
 
 The next regularly scheduled meeting is:
 
