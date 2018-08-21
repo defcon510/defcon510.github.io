@@ -1,13 +1,17 @@
-# DC510: Bring A Duvet
+# DC510: Our Hangovers Have Worn Off
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
+Right now, though, we have a special meeting for August because our regular meeting day fell on the Monday just after defcon, and we were all hung over.
+The new August meeting is:
+### August 24 (Friday), Arrive at 8:30 PM - 9:00 PM. We'll walk somewhere else after that.
+### The Lawn at the Corner of Lake Merritt Drive and Lakeside Drive in Oakland
+### Send us an email if you're running late and need us to stick around.
 
-The next meeting is:
+The next regularly scheduled meeting is:
 
-
-### June 11, 2018 (Monday)
+### September 10, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The movie this time is episodes 4-8 of Serial Experiments Lain. We don't know when it'll end, but we'll be at the bar through all of it, so if you come before 9 you can talk to us there, and we'll probably leave the bar and start a meeting around 9:00-9:15 if the marathon isn't over. Watch this space for more info when we find out, and email us if you want us to stick around to see you.
+### The movie this time is Cherry 2000, a film that made $14,000 at the box office. The movie starts at 7:00, runs 93 minutes, and will probably end around 8:45. Watch this space for more info when we find out, and email us if you want us to stick around to see you.
 
 
 If you have any additional questions, email
