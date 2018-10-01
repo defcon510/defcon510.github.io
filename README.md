@@ -1,22 +1,11 @@
-# DC510: Our Hangovers Have Worn Off
+# DC510: Start The Reactor
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
+Our next regularly scheduled meeting is:
 
-Right now, though, we have a special meeting for August because our regular meeting day fell on the Monday just after defcon, and we were all hung over.
-The new August meeting is:
-### August 24 (Friday), Arrive at 8:30 PM - 9:00 PM. We'll walk somewhere else after that.
-### The Lawn at the Corner of Lake Merritt Drive and Lakeside Drive in Oakland
-### Send us an email if you're running late and need us to stick around.
-
-
-
-
-
-The next regularly scheduled meeting is:
-
-### September 10, 2018 (Monday)
+### October 8, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### The movie this time is Cherry 2000, a film that made $14,000 at the box office. The movie starts at 7:00, runs 93 minutes, and will probably end around 8:45. Watch this space for more info when we find out, and email us if you want us to stick around to see you.
+### This month's pre-meeting drinking will feature a not-spooky movie, Total Recall. Yeah, we're sad that it's not Hardware. The movie starts at 7:00, runs 113 minutes, so figure on meeting up at like 9:10-9:20. Email us if you're running late and want us to stick around to see you.
 
 
 If you have any additional questions, email
