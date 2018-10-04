@@ -5,13 +5,24 @@
     <link>http://defcon510.github.io</link>
     <description>The Wild Wild West</description>
     <language>en-us</language>
-    <pubDate>Tues, 21 Aug 2018 01:01:01 GMT</pubDate>
-    <lastBuildDate>Tues, 21 Aug 2018 01:01:01 GMT</lastBuildDate>
+    <pubDate>Thurs, 4 Oct 2018 01:01:01 GMT</pubDate>
+    <lastBuildDate>Thurs, 4 Oct 2018 01:01:01 GMT</lastBuildDate>
     <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
     <generator>notepad.exe</generator>
     <managingEditor>noreply@gmail.com</managingEditor>
     <webMaster>noreply@gmail.com</webMaster>
     <ttl>180</ttl>
+
+      <item>
+      <title>DC510 - Spooktober Meeting</title>
+      <link>http://defcon510.github.io</link>
+      <description>DC510 - Spooktober Meeting
+Oct 8, 2018
+This month’s pre-meeting drinking will feature a not-spooky movie, Total Recall. Yeah, we’re sad that it’s not Hardware. The movie starts at 7:00, runs 113 minutes, so figure on meeting up at like 9:10-9:20. Email or dm us if you’re running late and want us to stick around to see you.
+</description>
+      <pubDate>Thurs, 4 Oct 2018 01:01:01 GMT</pubDate>
+      <guid>http://defcon510.github.io/#006</guid>
+    </item>
 
       <item>
       <title>DC510 - August Meeting</title>
