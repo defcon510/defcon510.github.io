@@ -1,11 +1,11 @@
-# DC510: Start The Reactor
+# DC510: We prefer the term "artificial person"
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### October 8, 2018 (Monday)
+### November 12, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### This month's pre-meeting drinking will feature a not-spooky movie, Total Recall. Yeah, we're sad that it's not Hardware. The movie starts at 7:00, runs 113 minutes, so figure on meeting up at like 9:10-9:20. Email us if you're running late and want us to stick around to see you.
+### This month's pre-meeting drinking is Aliens, a film we all know by heart <3. The movie starts around 7:00, runs maybe 137 minutes depending on which cut they use, basically figure on meeting up at like 9:15-9:20. Email us if you're running late and want us to stick around to see you.
 
 
 If you have any additional questions, email
