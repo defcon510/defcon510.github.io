@@ -5,7 +5,7 @@ Our next regularly scheduled meeting is:
 
 ### December 10, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### This month's pre-meeting drinking is Burst City, a Japanese (cyber?)punk classic. The movie starts around 7:00, runs 115 minutes, basically figure on meeting up at like 9:15-9:20. Email us if you're running late and want us to stick around to see you.
+### This month's pre-meeting drinking is Burst City, a Japanese (cyber?)punk classic. The movie starts around 7:00, runs 115 minutes, basically figure on meeting up at like 9:05-9:15. Email us if you're running late and want us to stick around to see you.
 
 
 If you have any additional questions, email
