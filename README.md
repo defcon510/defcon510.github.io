@@ -1,11 +1,11 @@
-# DC510: We prefer the term "artificial person"
+# DC510: Christmas Special
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### November 12, 2018 (Monday)
+### December 10, 2018 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### This month's pre-meeting drinking is Aliens, a film we all know by heart <3. The movie starts around 7:00, runs maybe 137 minutes depending on which cut they use, basically figure on meeting up at like 9:15-9:20. Email us if you're running late and want us to stick around to see you.
+### This month's pre-meeting drinking is Burst City, a Japanese (cyber?)punk classic. The movie starts around 7:00, runs 115 minutes, basically figure on meeting up at like 9:15-9:20. Email us if you're running late and want us to stick around to see you.
 
 
 If you have any additional questions, email
