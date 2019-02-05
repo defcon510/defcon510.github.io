@@ -1,11 +1,11 @@
-# DC510: Christmas Special
+# DC510: Make DC510 Your Valentine. Love us.
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### December 10, 2018 (Monday)
+### February 11, 2019 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### This month's pre-meeting drinking is Burst City, a Japanese (cyber?)punk classic. The movie starts around 7:00, runs 115 minutes, basically figure on meeting up at like 9:05-9:15. Email us if you're running late and want us to stick around to see you.
+### This month's pre-meeting drinking is the original Terminator, starring our former governor and also Michael Biehn. It runs 107 minutes, figure on meeting up at 9:10 - 9:15
 
 
 If you have any additional questions, email
@@ -15,7 +15,7 @@ Please do not talk business in depth over e-mail. If you're going to be late and
 
 **Knockout SF, isn't that..?**
 
-It's SF, yeah. DC510 meetings will always be near a BART station. For now, Cyberpunk Cinema is a friendly environment, and it's conveniently close in time and location to Deathguild. We can move if we find a find a better venue, and are exploring meeting more than once each month. Be advised, the folks at The Knockout are super nice and will not vomit on you for trying to enjoy their wonderful establishment.
+It's SF, yeah. DC510 meetings will always be near a BART station. For now, Cyberpunk Cinema is a friendly environment, and it's conveniently close in time and location to Deathguild. We can move if we find a find a better venue, and are exploring meeting more than once each month. Be advised, the folks at The Knockout are super nice and will not vomit on you for trying to enjoy their wonderful establishment. Drinks are super cheap there at any hour, too.
 
 
 **Why Does DC510 Exist?**
