@@ -1,11 +1,11 @@
-# DC510: Make DC510 Your Valentine. Love us.
+# DC510: Hackers.
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### February 11, 2019 (Monday)
+### April 8, 2019 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### This month's pre-meeting drinking is the original Terminator, starring our former governor and also Michael Biehn. It runs 107 minutes, figure on meeting up at 9:10 - 9:15
+### This month's pre-meeting drinking is the Hackers, the movie, a classic we've been seeing a lot of lately. It runs 107 minutes, figure on meeting up at 9:15 - 9:20
 
 
 If you have any additional questions, email
