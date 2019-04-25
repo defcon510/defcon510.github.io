@@ -1,11 +1,11 @@
-# DC510: Hackers.
+# DC510: Upgrade.
 Meetings are currently on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### April 8, 2019 (Monday)
+### May 13, 2019 (Monday)
 ### Knockout SF (3223 Mission St, walking distance of the 24th Street BART)
-### This month's pre-meeting drinking is the Hackers, the movie, a classic we've been seeing a lot of lately. It runs 107 minutes, figure on meeting up at 9:15 - 9:20
+### This month's pre-meeting drinking is Upgrade. You'll pay nothing for the whole seat but you'll only need THE EDGE. We'll be at the bar, probably. It runs 100 minutes, figure on meeting up at 9:10 - 9:15
 
 
 If you have any additional questions, email
