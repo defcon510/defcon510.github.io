@@ -1,2 +1,2 @@
 # Blog Thing
-test
+![](/blogthingimages/drone1-1.jpg | width=100)
