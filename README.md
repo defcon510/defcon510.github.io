@@ -30,3 +30,8 @@ DC510 is for abusers of technology. We won’t fight you over the definition of 
 
 
 [rss](rss.xml)
+
+
+
+
+[stupid blog thing](blogthing.md)
