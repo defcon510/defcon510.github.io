@@ -34,4 +34,7 @@ DC510 is for abusers of technology. We won’t fight you over the definition of 
 
 
 
-[stupid blog thing](blogthing.md)
+
+
+
+[stupid blog thing, honestly don't bother](blogthing.md)
