@@ -1,11 +1,11 @@
-# DC510: Kingfish
+# DC510: Last Meeting Before DEFCON
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### June 12, 2019 (Wednesday)
-### Kingfish Pub and Cafe (5227 Telegraph Ave, Oakland, .8 miles from the MacArthur BART)
-### No movie this month, we'll be pre-gaming at the Kingfish Pub next to the library.  We'll probably be there from 8:30-9:00, and then start around 9.
+### July 8, 2019 (Monday)
+### Location Unknown, Presumed to be the Knockout SF (5227 Telegraph Ave, Oakland, .8 miles from the MacArthur BART)
+### Cyberpunk Cinema hasn't announced a movie for this month, but we'll be meeting on July 8 no matter what. Probably at the Knockout, or we'll find somewhere else if they aren't hosting. Watch this space or our twitter for updates.
 
 
 If you have any additional questions, email
