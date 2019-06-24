@@ -4,8 +4,8 @@ Meetings are usually on the second Monday of each month, immediately following C
 Our next regularly scheduled meeting is:
 
 ### July 8, 2019 (Monday)
-### Location Unknown, Presumed to be the Knockout SF (5227 Telegraph Ave, Oakland, .8 miles from the MacArthur BART)
-### Cyberpunk Cinema hasn't announced a movie for this month, but we'll be meeting on July 8 no matter what. Probably at the Knockout, or we'll find somewhere else if they aren't hosting. Watch this space or our twitter for updates.
+### Location Unknown, Presumed to be the Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
+### Cyberpunk Cinema hasn't announced a movie for this month, but we'll be meeting on July 8 no matter what. Probably at the Knockout, or we'll find somewhere else if they aren't hosting. Time-wise, expect to start the meeting around 9 PM. Watch this space or our twitter for updates.
 
 
 If you have any additional questions, email
