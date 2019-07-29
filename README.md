@@ -1,11 +1,11 @@
-# DC510: Last Meeting Before DEFCON
+# DC510: Global Thermonuclear Hangover
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### July 8, 2019 (Monday)
-### Location Unknown, Presumed to be the Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Cyberpunk Cinema hasn't announced a movie for this month, but we'll be meeting on July 8 no matter what. Probably at the Knockout, or we'll find somewhere else if they aren't hosting. Time-wise, expect to start the meeting around 9 PM. Watch this space or our twitter for updates.
+### August 12, 2019 (Monday) *WE'LL ALL BE DRIVING HOME OR ASLEEP OR SOMETHING*
+### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
+### So the next date for a DC510 meeting is August 12, which is one day after DEFCON, at the Knockout SF. If you're still alive after all that and can load your wrecked carcass onto a BART train, feel free to show up there! The movie is Wargames, because of course it is. We won't be there, we'll all be asleep. Probably. Maybe. Say hi if you see us anyway.
 
 
 If you have any additional questions, email
