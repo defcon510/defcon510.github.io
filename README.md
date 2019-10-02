@@ -3,9 +3,9 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### August 12, 2019 (Monday) *WE'LL ALL BE DRIVING HOME OR ASLEEP OR SOMETHING*
+### October 14, 2019 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### So the next date for a DC510 meeting is August 12, which is one day after DEFCON, at the Knockout SF. If you're still alive after all that and can load your wrecked carcass onto a BART train, feel free to show up there! The movie is Wargames, because of course it is. We won't be there, we'll all be asleep. Probably. Maybe. Say hi if you see us anyway.
+### Next meeting is Monday, October 14, when the movie is Pulse, no, not the Kiyoshi Kurosawa fine film, actually the dumb american knockoff  of Maximum Overdrive. Anyway we'll be at the bar, drinking probably pretty hard to compensate for this fine film. It'll probably end (and our meeting will start) at just after 9:00 PM.
 
 
 If you have any additional questions, email
