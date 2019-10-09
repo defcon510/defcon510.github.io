@@ -5,14 +5,25 @@
     <link>http://defcon510.github.io</link>
     <description>The Wild Wild West</description>
     <language>en-us</language>
-    <pubDate>Mon, 24 Jun 2019 01:01:01 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Jun 2019 01:01:01 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2019 01:01:01 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2019 01:01:01 GMT</lastBuildDate>
     <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
     <generator>notepad.exe</generator>
     <managingEditor>noreply@gmail.com</managingEditor>
     <webMaster>noreply@gmail.com</webMaster>
     <ttl>180</ttl>
 
+      <item>
+      <title>DC510 - We're Trying To Be Spooky</title>
+      <link>http://defcon510.github.io</link>
+      <description>DC510: Last Meeting Before DEFCON?
+Oct 14, 2019 (Monday)
+The bar is showing Pulse, but not the Kiyoshi Kurosawa horror movie. We'll be there anyway! Figure on meeting up at like 9:15.
+</description>
+      <pubDate>Wed, 09 Oct 2019 01:01:01 GMT</pubDate>
+      <guid>http://defcon510.github.io/#014</guid>
+    </item>   
+    
       <item>
       <title>DC510 - Last Meeting Before DEFCON?</title>
       <link>http://defcon510.github.io</link>
