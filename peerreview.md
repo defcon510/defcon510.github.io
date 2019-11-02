@@ -6,7 +6,7 @@ We don't have whatever brand of pumpkin saw that LPL was using in his video, and
 
 His Saw:
 
-![text](peerreviewimages/pumpkinsaw01.jpg){:height="50%" width="50%"}
+![text](peerreviewimages/pumpkinsaw01.jpg){:height="70%" width="70%"}
 
 Our Saw:
 
@@ -16,17 +16,17 @@ First off, this saw has a battery cover so poorly engineered that it comes with 
 
 The saws took more heat to unseat from the saw plugs than they took in LPL's video, and so we had to use an alcohol burner that we had handy, because a gas station bic lighter just didn't cut it.
 
-![text](peerreviewimages/pumpkinsaw03.jpg){:height="50%" width="50%"}
+![text](peerreviewimages/pumpkinsaw03.jpg){:height="40%" width="40%"}
 
 The tolerances between the saw plug and the retaining collar are pretty tight, so you can't attach the plug if it deformed even a little under the heat.
 
-![text](peerreviewimages/pumpkinsaw04.jpg){:height="50%" width="50%"}
+![text](peerreviewimages/pumpkinsaw04.jpg){:height="70%" width="70%"}
 
 As you can see, that looks exactly backwards.
 
 We ordered the lockpicks from SouthOrd, who sells single replacement picks. Lockpickshop supposedly does too, but they have a hidden minimum order that they only tell you about after they have your money. To cut the picks, we used the wire cutter on some cheap dollar store pliers. The cut picks did technically fit the plugs, but filing them down made them fit better.
 
-![text](peerreviewimages/pumpkinsaw05.jpg){:height="50%" width="50%"}
+![text](peerreviewimages/pumpkinsaw05.jpg){:height="70%" width="70%"}
 
 Total cost per saw:
 
