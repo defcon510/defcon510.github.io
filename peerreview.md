@@ -20,13 +20,13 @@ The saws took more heat to unseat from the saw plugs than they took in LPL's vid
 
 The tolerances between the saw plug and the retaining collar are pretty tight, so you can't attach the plug if it deformed even a little under the heat.
 
-![text](peerreviewimages/pumpkinsaw04.jpg){:height="70%" width="70%"}
+![text](peerreviewimages/pumpkinsaw04.jpg){:height="85%" width="85%"}
 
 As you can see, that looks exactly backwards.
 
 We ordered the lockpicks from SouthOrd, who sells single replacement picks. Lockpickshop supposedly does too, but they have a hidden minimum order that they only tell you about after they have your money. To cut the picks, we used the wire cutter on some cheap dollar store pliers. The cut picks did technically fit the plugs, but filing them down made them fit better.
 
-![text](peerreviewimages/pumpkinsaw05.jpg){:height="70%" width="70%"}
+![text](peerreviewimages/pumpkinsaw05.jpg){:height="80%" width="80%"}
 
 Total cost per saw:
 
