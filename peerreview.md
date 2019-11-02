@@ -29,9 +29,14 @@ We ordered the lockpicks from SouthOrd, who sells single replacement picks. Lock
 ![text](peerreviewimages/pumpkinsaw05.jpg){:height="50%" width="50%"}
 
 Total cost per saw:
+
 The Saw Itself: $10 from Michael's Crafts ($7 at Target)
+
 2 Rake Picks, plus shipping: $5.00
+
 Alcohol Burner: We had it already, otherwise it cost $13, BYOB
+
 4 AA Batteries: We stole these out of our radio scanner. Probably $1 from a dollar store.
+
 
 Does it work? Well, it moves the rake in and out.
