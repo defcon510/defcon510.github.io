@@ -3,9 +3,9 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### October 14, 2019 (Monday)
+### November 11, 2019 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Next meeting is Monday, October 14, when the movie is Pulse, no, not the Kiyoshi Kurosawa fine film, actually the dumb american knockoff  of Maximum Overdrive. Anyway we'll be at the bar, drinking probably pretty hard to compensate for this fine film. It'll probably end (and our meeting will start) at just after 9:00 PM.
+### Next meeting is Monday, November 11, and the film is Tetsuo: The Iron Man, a film we'd recommend to anyone, for any reason. It's only 67 minutes, so gamble on it ending a little earlier than normal. We'll be at the bar, and it's a good bet that the drink specials will be as strange as the movie this time.
 
 
 If you have any additional questions, email
