@@ -1,5 +1,11 @@
 # Peer Review
 
+## Havoc Firmware Binary
+Built Nov 22, 2019. Cross-compiling was a pain, and the binary on the official Havoc github is way old, and someone spent a lot of effort updating the how-to guide instead of uploading a newer binary. Credit to furrtek for actually writing the thing, we just compiled it.
+
+[no guarantees we compiled it right](peerreviewimages/portapack-h1-havoc-dc510-11222019.bin)
+
+
 ## The Pumpkin Saw
 
 We don't have whatever brand of pumpkin saw that LPL was using in his video, and the one we got seems pretty inferior, leading to a questionable build.
