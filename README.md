@@ -3,9 +3,9 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### November 11, 2019 (Monday)
+### December 09, 2019 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Next meeting is Monday, November 11, and the film is Tetsuo: The Iron Man, a film we'd recommend to anyone, for any reason. It's only 67 minutes, so gamble on it ending a little earlier than normal. We'll be at the bar, and it's a good bet that the drink specials will be as strange as the movie this time.
+### Next meeting is Monday, December 09, and we think the movie is going to be Akira. We'll update again when we find out, unless we forget. Anyway, Akira is 124 minutes, figure on a meeting at about 9:20 - 9:30.
 
 
 If you have any additional questions, email
