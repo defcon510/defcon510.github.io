@@ -1,4 +1,4 @@
-# DC510: Global Thermonuclear Hangover
+# DC510: It's The Future Y'all
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
