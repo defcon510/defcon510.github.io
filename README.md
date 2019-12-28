@@ -3,9 +3,9 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### December 09, 2019 (Monday)
+### January 13, 2020 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Next meeting is Monday, December 09, and we think the movie is going to be Akira. We'll update again when we find out, unless we forget. Anyway, Akira is 124 minutes, figure on a meeting at about 9:20 - 9:30.
+### Next meeting is Monday, January 13, and we don't know what the movie is going to be. We'll update again when we find out, unless we forget. Anyway, figure on a meeting at about 9:15 - 9:30.
 
 
 If you have any additional questions, email
