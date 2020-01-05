@@ -5,7 +5,7 @@ Our next regularly scheduled meeting is:
 
 ### January 13, 2020 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Next meeting is Monday, January 13, and we don't know what the movie is going to be. We'll update again when we find out, unless we forget. Anyway, figure on a meeting at about 9:15 - 9:30.
+### Next meeting is Monday, January 13, and the movie is The FP, which runs 83 minutes. Figure on the meeting starting at about 9:05 - 9:20.
 
 
 If you have any additional questions, email
