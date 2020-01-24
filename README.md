@@ -1,11 +1,13 @@
-# DC510: It's The Future Y'all
+# DC510: 'Tis Bsides!
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### January 13, 2020 (Monday)
+### February 10, 2020 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Next meeting is Monday, January 13, and the movie is The FP, which runs 83 minutes. Figure on the meeting starting at about 9:05 - 9:20.
+### Next meeting is Monday, January 13, and the movie is Electric Dreams, which runs 112 minutes and features Giorgio Moroder on the soundtrack. Figure on the meeting starting at about 9:15 - 9:25. We'll be talking about the Bsides SF 10th Anniversary, which we'll be at from Feb 22 - Feb 24.
+
+SPECIAL OTHER INFO: We'll be showing up to Cyberdelia on Feb 28 over at the DNA Lounge. Probably. How could we miss it?
 
 
 If you have any additional questions, email
