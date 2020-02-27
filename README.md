@@ -1,11 +1,14 @@
-# DC510: 'Tis Bsides!
+# DC510: It Was Bsides!
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
+
+We have a field trip planned:
+### This month, we'll be out feeling real old at the Hackers: The Movie 25th Anniversary showing at the DNA Lounge on Feb 28. You can meet us there! And probably everyone else too!
 
 Our next regularly scheduled meeting is:
 
-### February 10, 2020 (Monday)
+### March 09, 2020 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Next meeting is Monday, January 13, and the movie is Electric Dreams, which runs 112 minutes and features Giorgio Moroder on the soundtrack. Figure on the meeting starting at about 9:15 - 9:25. We'll be talking about the Bsides SF 10th Anniversary, which we'll be at from Feb 22 - Feb 24.
+### Next meeting is Monday, March 09, and we don't know the name of the movie. Figure on the meeting starting at about 9:15 - 9:25. 
 
 SPECIAL OTHER INFO: We'll be showing up to Cyberdelia on Feb 28 over at the DNA Lounge. Probably. How could we miss it?
 
