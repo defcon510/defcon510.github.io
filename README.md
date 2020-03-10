@@ -8,7 +8,7 @@ Our next regularly scheduled meeting is:
 
 ### March 09, 2020 (Monday)
 ### Knockout SF (3223 Mission St, San Francisco, .5 miles from the 24th Street BART)
-### Next meeting is Monday, March 09, and we don't know the name of the movie. Figure on the meeting starting at about 9:15 - 9:25. 
+### Next meeting is Monday, March 09, and the movie is Starship Troopers. Figure on the meeting starting at about 9:15 - 9:25. 
 
 SPECIAL OTHER INFO: We'll be showing up to Cyberdelia on Feb 28 over at the DNA Lounge. Probably. How could we miss it?
 
