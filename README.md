@@ -1,9 +1,9 @@
-# DC510: Homestuck
-Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
+# DC510: We're Still Alive!
+~~Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.~~
 
-Our next regularly scheduled meeting is:
+~~Our next regularly scheduled meeting is:~~
 
-### Online! Because the world is ending, I guess!
+### We aren't holding meetings for the time being, but we'll be online at Defcon 2020 Is Cancelled: Safe Mode For Workgroups, which, to save you the click, is Aug 7 - Aug 9.
 
 
 
