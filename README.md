@@ -1,9 +1,9 @@
 # DC510: We're Still Alive!
-~~Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.~~
+Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
-~~Our next regularly scheduled meeting is:~~
+Our next regularly scheduled meeting is:
 
-### We aren't holding meetings for the time being, but we'll be online at Defcon 2020 Is Cancelled: Safe Mode For Workgroups, which, to save you the click, is Aug 7 - Aug 9.
+### May 10, 2021. The movie is Demolition Man. It starts at 7:00, we'll probably leave the bar and move somewhere else around 9:00.
 
 
 
