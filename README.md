@@ -1,4 +1,4 @@
-# DC510: We're Still Alive!
+# DC510: We Came Back For 510
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
