@@ -5,13 +5,24 @@
     <link>http://defcon510.github.io</link>
     <description>The Wild Wild West</description>
     <language>en-us</language>
-    <pubDate>Sat, 08 May 2021 01:01:01 GMT</pubDate>
-    <lastBuildDate>Sat, 08 May 2021 01:01:01 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 01:01:01 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 01:01:01 GMT</lastBuildDate>
     <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
     <generator>notepad.exe</generator>
     <managingEditor>noreply@gmail.com</managingEditor>
     <webMaster>noreply@gmail.com</webMaster>
     <ttl>180</ttl>
+	  
+	  <item>
+      <title>DC510 - June 14, 2021 - It's Hackers Again</title>
+      <link>http://defcon510.github.io</link>
+      <description>DC510 - June 14, 2021 - It's Hackers Again
+June 14, 2021 (Monday)
+The movie is Hackers, again. It starts at 7:00, we’ll probably keep hanging around in the bar parklet a while, heads up the BART stops REAL EARLY now.
+</description>
+      <pubDate>Sat, 12 Jun 2021 01:01:01 GMT</pubDate>
+      <guid>http://defcon510.github.io/#018</guid>
+    </item>	  
 
 	  <item>
       <title>DC510 - May, 2021 - WE'RE BACK FOR 510</title>
