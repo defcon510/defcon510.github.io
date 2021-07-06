@@ -1,9 +1,9 @@
-# DC510: It's Hackers Again
+# DC510: your LAST CHANCE or something
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### June 14, 2021. The movie is Hackers, again. It starts at 7:00, we'll probably keep hanging around in the bar parklet a while, heads up the BART stops REAL EARLY now.
+### July 12, 2021. We don't know what the movie is or if there'll be a movie, we'll post as soon as we figure out the venue. Heads up the BART stops REAL EARLY now.
 
 
 
@@ -20,7 +20,7 @@ It's SF, yeah. DC510 meetings will always be near a BART station. For now, Cyber
 
 **Why Does DC510 Exist?**
 
-The Bay Area has no shortage of hackers. Around here, you can get ethical hacking classes, corporate hackathons, and (actually) some of the best hackerspaces in the world. It's a high-tech environment, but that environment caters more to the kind of security professionals who attend Blackhat, and less the kind of hackers who go to DEFCON. The real hacker groups in the area are stagnant; SF2600 is a dwindling population that never outreaches or does activities past bar meetings (or actually goes to DEFCON?), and DC415 was last we checked an online-only arm of hispagatos (we still love you guys tho).
+The Bay Area has no shortage of hackers. Around here, you can get ethical hacking classes, corporate hackathons, and (actually) some of the best hackerspaces in the world. It's a high-tech environment, but that environment caters more to the kind of security professionals who attend Blackhat, and less the kind of hackers who go to DEFCON. The real hacker groups in the area are stagnant; SF2600 is a dwindling population that never outreaches or does activities past bar meetings (or actually goes to DEFCON?), and DC415 was last we checked (July 6 2021 thanks for your **concern**) an online-only arm of hispagatos (we still love you rek2).
 
 
 **What's a hacker?**
