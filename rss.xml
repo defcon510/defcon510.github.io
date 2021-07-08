@@ -5,13 +5,25 @@
     <link>http://defcon510.github.io</link>
     <description>The Wild Wild West</description>
     <language>en-us</language>
-    <pubDate>Sat, 12 Jun 2021 01:01:01 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Jun 2021 01:01:01 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Jul 2021 01:01:01 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Jul 2021 01:01:01 GMT</lastBuildDate>
     <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
     <generator>notepad.exe</generator>
     <managingEditor>noreply@gmail.com</managingEditor>
     <webMaster>noreply@gmail.com</webMaster>
     <ttl>180</ttl>
+
+	  <item>
+      <title>DC510 - July 12, 2021 - your LAST CHANCE or something</title>
+      <link>http://defcon510.github.io</link>
+      <description>DC510 - July 12, 2021 - your LAST CHANCE or something
+July 12, 2021 (Monday)
+Last official meeting before DEFCON! The movie is Akira, again. It starts at 7:00, we'll probably just be there to chat and drink, the last train out is at 9:00 PM.
+</description>
+      <pubDate>Thu, 08 Jul 2021 01:01:01 GMT</pubDate>
+      <guid>http://defcon510.github.io/#019</guid>
+    </item>	  
+
 	  
 	  <item>
       <title>DC510 - June 14, 2021 - It's Hackers Again</title>
