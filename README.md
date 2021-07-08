@@ -3,7 +3,7 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### July 12, 2021. We don't know what the movie is or if there'll be a movie, we'll post as soon as we figure out the venue. Heads up the BART stops REAL EARLY now.
+### July 12, 2021. The movie is Akira. Heads up the BART stops REAL EARLY now, like last train out of 24th street at 9 PM.
 
 
 
