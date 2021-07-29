@@ -1,9 +1,9 @@
-# DC510: your LAST CHANCE or something
+# DC510: DEATH IN VEGAS
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### July 12, 2021. The movie is Akira. Heads up the BART stops REAL EARLY now, like last train out of 24th street at 9 PM.
+### At the bar in Bally's.
 
 
 
