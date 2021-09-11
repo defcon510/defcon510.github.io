@@ -1,9 +1,9 @@
-# DC510: DEATH IN VEGAS
+# DC510: THIS YEAR IS 69% OVER
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### At the bar in Bally's.
+### September 13th, at The Knockout SF. The movie is Terminator 2, for it's 30th anniversary. Feel old yet? Movie starts at 7, meeting probably starts at 9:00 or 9:15.
 
 
 
