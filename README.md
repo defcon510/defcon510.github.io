@@ -1,9 +1,9 @@
-# DC510: AW YEAH IT'S SPOOKY MONTH AGAIN
+# DC510: Nothing Funny About November
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### October 11th, at The Knockout SF. The movie is Cowboy Bebop, the movie. Movie starts at 7, meeting probably starts at 9:00 or 9:15.
+### November 8th, at The Knockout SF. The movie is Equilibrium. Movie starts at 7, meeting probably starts at 9:00 or 9:15.
 
 
 
