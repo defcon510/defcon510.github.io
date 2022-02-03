@@ -1,9 +1,9 @@
-# DC510: Nothing Funny About November
+# DC510 For The Painfully Alone
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### November 8th, at The Knockout SF. The movie is Equilibrium. Movie starts at 7, meeting probably starts at 9:00 or 9:15.
+### February 14th, at The Knockout SF. The movie is The Fifth Element, starring Milla Jovovovovovoitch. Movie starts at 7, meeting probably starts at 9:00 or 9:15.
 
 
 
