@@ -3,7 +3,7 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### February 14th, at The Knockout SF. The movie is The Fifth Element, starring Milla Jovovovovovoitch. Movie starts at 7, meeting probably starts at 9:00 or 9:15.
+### February 14th, at The Knockout SF. The movie is The Fifth Element, starring Bruce Willis and  Milla Jovovovovovoitch. Movie starts at 7, meeting probably starts at 9:00 or 9:15.
 
 
 
