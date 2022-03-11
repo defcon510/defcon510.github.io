@@ -1,9 +1,9 @@
-# DC510 For The Painfully Alone
+# DC510 Remember To Book A Hotel For DEFCON
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### February 14th, at The Knockout SF. The movie is The Fifth Element, starring Bruce Willis and  Milla Jovovovovovoitch. Movie starts at 7, meeting probably starts at 9:00 or 9:15.
+### March 14th, at The Knockout SF. We'll be there around 7:30, and we'll probably stay until 9 if there's a movie. If there isn't a movie and we split for a different club we'll post it on our twitter.
 
 
 
