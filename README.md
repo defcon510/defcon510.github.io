@@ -1,9 +1,9 @@
-# DC510 Remember To Book A Hotel For DEFCON
+# DC510 Some Real Geniuses Up In This Club
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### March 14th, at The Knockout SF. We'll be there around 7:30, and we'll probably stay until 9 if there's a movie. If there isn't a movie and we split for a different club we'll post it on our twitter.
+### April 11th, at The Knockout SF. We'll be there around 7:30, and we'll probably stay until 9 or 9:30, whenever the movie ends, and head next door to start the meeting. The movie is Real Genius, a classic.
 
 
 
