@@ -3,7 +3,7 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### April 11th, at The Knockout SF. We'll be there around 7:30, and we'll probably stay until 9 or 9:30, whenever the movie ends, and head next door to start the meeting. The movie is Real Genius, a classic.
+### May 9th, at The Knockout SF. We'll be there around 7:30, and we'll probably stay until 9 or 9:30, whenever the movie ends, and head next door to start the meeting. The movie is Dallos, a classic OAV.
 
 
 
