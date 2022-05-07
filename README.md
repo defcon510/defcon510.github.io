@@ -1,4 +1,4 @@
-# DC510 Some Real Geniuses Up In This Club
+# DC510 Dallos, Texos
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
