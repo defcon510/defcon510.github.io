@@ -1,9 +1,12 @@
-# DC510 Dallos, Texos
+# DC510 BACK AT BSIDES
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### May 9th, at The Knockout SF. We'll be there around 7:30, and we'll probably stay until 9 or 9:30, whenever the movie ends, and head next door to start the meeting. The movie is Dallos, a classic OAV.
+### May 4th or 5th, at BSides SF. The last time we did this was March 2020.
+
+We'll be at Cyberpunk Cinema the week after, if you don't want to go to bsides. But listen, if money is an issue, tickets are $60 and multiple meals are provided. If you can score just 6 free drink tickets, you're breaking even!
+
 
 
 
