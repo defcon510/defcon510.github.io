@@ -1,12 +1,12 @@
-# DC510 BACK AT BSIDES
+# DC510 LAST MEETING BEFORE DEFCON
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### May 4th or 5th, at BSides SF. The last time we did this was March 2020.
+### July 11th, 2022
 
-We'll be at Cyberpunk Cinema the week after, if you don't want to go to bsides. But listen, if money is an issue, tickets are $60 and multiple meals are provided. If you can score just 6 free drink tickets, you're breaking even!
-
+It's our last meeting before DEFCON! The movie playing is We Live In Public, which is a documentary about Josh Harris. Our hype levels are going to be off the charts, we're probably going to be completely talking over it, but if you want to see some classic 90s internet, this movie is for you.
+It says it starts at 6:30, we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
 
 
 
