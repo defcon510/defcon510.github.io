@@ -1,12 +1,11 @@
-# DC510 LAST MEETING BEFORE DEFCON
+# DC510: Only 322 Days Until DEFCON
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### July 11th, 2022
+### September 12th, 2022
 
-It's our last meeting before DEFCON! The movie playing is We Live In Public, which is a documentary about Josh Harris. Our hype levels are going to be off the charts, we're probably going to be completely talking over it, but if you want to see some classic 90s internet, this movie is for you.
-It says it starts at 6:30, we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
+We don't know what the movie is! We'll update when we find out. Meantime, figure that we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
 
 
 
