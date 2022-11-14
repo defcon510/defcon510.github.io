@@ -5,14 +5,22 @@
     <link>http://defcon510.github.io</link>
     <description>The Wild Wild West</description>
     <language>en-us</language>
-    <pubDate>Sat, 09 Jul 2022 01:01:01 GMT</pubDate>
-    <lastBuildDate>Sat, 09 Jul 2022 01:01:01 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Nov 2022 01:01:01 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Nov 2022 01:01:01 GMT</lastBuildDate>
     <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
     <generator>notepad.exe</generator>
     <managingEditor>noreply@gmail.com</managingEditor>
     <webMaster>noreply@gmail.com</webMaster>
     <ttl>180</ttl>
 
+	  	 <item>
+      <title>Does anyone use this?</title>
+      <link>http://defcon510.github.io</link>
+      <description>Does anyone even use the RSS? Someone asked for it once and then never showed up. Get at us if you use the RSS and want us to keep updating it.
+			 </description>
+      <pubDate>Sun, 13 Nov 2022 01:01:01 GMT</pubDate>
+      <guid>http://defcon510.github.io/#027</guid>
+    </item>	
 	  
 	 <item>
       <title>DC510 - July 11, 2022 - LAST MEETING BEFORE DEFCON</title>
