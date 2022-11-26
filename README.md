@@ -1,11 +1,11 @@
-# DC510: its seasonal season
+# DC510: we're winning the war on christmas
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### November 14th (and the one after that is Dec 12th)
+### December 12th, 2022
 
-We don't know what the movie is! We never know anymore, Tosh please update sooner. Whatever, the plan is that we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
+Last meeting of the year! The movie? Maybe Tosh will remember that Hardware is actually a Christmas movie. Whatever, the plan is that we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
 
 
 
