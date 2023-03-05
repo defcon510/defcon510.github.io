@@ -1,11 +1,11 @@
-# DC510: </3
+# DC510: getting moto, or getting motomoto
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Feb 13, 2023
+### Mar 13, 2023
 
-First meeting of 2023! (we had to cancel January's due to flood warnings) No idea about the movie! We'll be hanging out at the bar, and we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
+We'll be hanging out at the bar, and we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
 
 
 
