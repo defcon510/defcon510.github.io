@@ -1,11 +1,14 @@
-# DC510: getting moto, or getting motomoto
+# DC510: it's bsides time again!
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Mar 13, 2023
+### Apr 10, 2023
 
-We'll be hanging out at the bar, and we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
+
+We'll be talking bsides! And if you can't come to the meeting, you can probably just meet us at BSidesSF, THIS MONTH if everything goes according to plan. 
+
+At the meeting we'll be hanging out at the bar, and we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
 
 
 
