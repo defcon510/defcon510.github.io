@@ -33,7 +33,9 @@ The Bay Area has no shortage of hackers. Around here, you can get ethical hackin
 DC510 is for abusers of technology. We won’t fight you over the definition of hacker beyond that. Cyberpunks welcome.
 
 
-[rss](rss.xml)
+[official dc510 thinged verse](https://thingiverse.com)
+
+[rss](rss.xml) (we stopped updating this because nobody was using it)
 
 
 
