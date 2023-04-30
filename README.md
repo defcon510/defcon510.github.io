@@ -1,12 +1,12 @@
-# DC510: it's bsides time again!
+# DC510: hello new friends
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Apr 10, 2023
+### Monday, May 08, 2023
 
-
-We'll be talking bsides! And if you can't come to the meeting, you can probably just meet us at BSidesSF, THIS MONTH if everything goes according to plan. 
+Did we learn anything at Bsides? MAYBE. Did we make some new friends? ALSO MAYBE. We'll be talking about some or all of that!
+party y/n
 
 At the meeting we'll be hanging out at the bar, and we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
 
