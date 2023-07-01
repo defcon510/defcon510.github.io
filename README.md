@@ -1,15 +1,11 @@
-# DC510: hello new friends
+# DC510: LAST ONE BEFORE CON
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, May 08, 2023
+### Monday, July 10, 2023
 
-Did we learn anything at Bsides? MAYBE. Did we make some new friends? ALSO MAYBE. We'll be talking about some or all of that!
-party y/n
-
-At the meeting we'll be hanging out at the bar, and we'll probably leave the bar and start the official meeting at 9. As always, meet up at the Knockout SF.
-
+It's the last meeting before DEFCON! If you have questions about the con, WE MAY OR MAY NOT HAVE ANSWERS
 
 
 If you have any additional questions, email
