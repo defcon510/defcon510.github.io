@@ -1,11 +1,13 @@
-# DC510: LAST ONE BEFORE CON
+# DC510: AAAAAAH ITS HERE
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, July 10, 2023
+### WERE AT DEFCON YALL
 
-It's the last meeting before DEFCON! If you have questions about the con, WE MAY OR MAY NOT HAVE ANSWERS
+OMG OMG ITS TIME FINALLY
+
+next meeting in september, probably september 11
 
 
 If you have any additional questions, email
