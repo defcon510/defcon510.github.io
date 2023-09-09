@@ -1,13 +1,11 @@
-# DC510: AAAAAAH ITS HERE
+# DC510: late update
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### WERE AT DEFCON YALL
+### Monday, [September 11th](https://www.youtube.com/watch?v=qSh2HswKn5Y)
 
-OMG OMG ITS TIME FINALLY
-
-next meeting in september, probably september 11
+yeah well its the first meeting after defcon and we don't know what the movie is, whatever, catch us at the bar
 
 
 If you have any additional questions, email
