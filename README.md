@@ -1,11 +1,11 @@
-# DC510: late update
+# DC510: man i hope its spooky season
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, [September 11th](https://www.youtube.com/watch?v=qSh2HswKn5Y)
+### Monday, October 9, 2023
 
-yeah well its the first meeting after defcon and we don't know what the movie is, whatever, catch us at the bar
+[i hope we all have a good halloween](https://www.youtube.com/watch?v=D2MH5c2sTvc)
 
 
 If you have any additional questions, email
