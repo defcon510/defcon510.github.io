@@ -13,7 +13,6 @@ your guess is as good as ours on cell reception, they usually black out everyone
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
 Please do not talk business in depth over e-mail. If you're going to be late and want us to wait up after the movie (or if you just want to skip the movie and come to the meeting), send an RSVP and we'll wait around for you.
-If you just want to follow us on twitter, we're @_dc510
 
 
 **Knockout SF, isn't that..?**
