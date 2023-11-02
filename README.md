@@ -1,11 +1,15 @@
-# DC510: man i hope its spooky season
+# DC510: the big one before the holidays
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, October 9, 2023
+### Monday, November 13, 2023
 
-[i hope we all have a good halloween](https://www.youtube.com/watch?v=D2MH5c2sTvc)
+some old friends will be flying in to join us!
+
+APEC 2023 is going on and biden's in town, the surface streets are blocked but the bart supposedly won't be; the knockout is not inside the security zone
+
+your guess is as good as ours on cell reception, they usually black out everyone when biden's in town but i do not think the APEC 2023 attendees would be thrilled about it
 
 
 If you have any additional questions, email
@@ -28,6 +32,7 @@ The Bay Area has no shortage of hackers. Around here, you can get ethical hackin
 
 DC510 is for abusers of technology. We won’t fight you over the definition of hacker beyond that. Cyberpunks welcome.
 
+[twitter](https://twitter.com/_dc510) [bluesky](https://bsky.app/profile/dc510.bsky.social) [fedded verse](https://defcon.social/@defcon/following)
 
 [official dc510 thinged verse](https://www.thingiverse.com/dc510/designs)
 
