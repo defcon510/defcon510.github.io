@@ -6,9 +6,7 @@ Our next regularly scheduled meeting is:
 ### Monday, November 13, 2023
 
 some old friends will be flying in to join us!
-
 APEC 2023 is going on and biden's in town, the surface streets are blocked but the bart supposedly won't be; the knockout is not inside the security zone
-
 your guess is as good as ours on cell reception, they usually black out everyone when biden's in town but i do not think the APEC 2023 attendees would be thrilled about it
 
 
