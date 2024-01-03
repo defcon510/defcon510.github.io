@@ -1,11 +1,11 @@
-# DC510: the big one before the holidays
+# DC510: its 2024, hooray i guess
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, December 11, 2023
+### Monday, January 08, 2024
 
-the holiday slump is real and this is possibly our last chance to do something before it hits! or just have a beer idk
+ahh that didn't feel like a month at all. NEXT MEETING, January 9th, 202*4*. Movie? Probably
 
 
 If you have any additional questions, email
