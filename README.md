@@ -1,11 +1,11 @@
-# DC510: its 2024, hooray i guess
+# DC510: it isnt on valentimes thats good right
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, January 08, 2024
+### Monday, February 12, 2024
 
-ahh that didn't feel like a month at all. NEXT MEETING, January 9th, 202*4*. Movie? Probably
+it's too far out to know what's going on but we hope to let people know early this time
 
 
 If you have any additional questions, email
