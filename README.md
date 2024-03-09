@@ -1,11 +1,11 @@
-# DC510: it isnt on valentimes thats good right
+# DC510: march meeting cancelled, next meeting in April
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, February 12, 2024
+### Monday, April 8, 2024
 
-it's too far out to know what's going on but we hope to let people know early this time
+the march meeting is cancelled due to circumstances
 
 
 If you have any additional questions, email
