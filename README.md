@@ -1,11 +1,11 @@
-# DC510: march meeting cancelled, next meeting in April
+# DC510: Its Time To Get Hype For Bsides
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
 ### Monday, April 8, 2024
 
-the march meeting is cancelled due to circumstances
+There's a movie or something, we're probably going to be talking a whole lot about Bsides SF, because this is the last meeting before BSides in May.
 
 
 If you have any additional questions, email
