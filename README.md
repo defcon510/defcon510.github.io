@@ -1,11 +1,11 @@
-# DC510: Its Time To Get Hype For Bsides
+# DC510: We Got Hype For Bsides
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, April 8, 2024
+### Monday, April 13, 2024
 
-There's a movie or something, we're probably going to be talking a whole lot about Bsides SF, because this is the last meeting before BSides in May.
+We'll probably be talking about how great (?) bsides was and what we're thinking about in regards to opensauce.
 
 
 If you have any additional questions, email
