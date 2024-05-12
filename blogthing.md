@@ -29,7 +29,7 @@ an easy-print version of the shielded antenna top we got from that other site:
 
 [case top with antenna sleeve](blogthingfiles/ttgo-antennatop-printable.stl)
 
-[antennacap](blogthingfiles/ttgo-antennacap.stl)
+[antenna cap](blogthingfiles/ttgo-antennacap.stl)
 
 
 
@@ -42,10 +42,14 @@ https://www.tvcmall.com/details/topk-am23-nylon-braided-magnetic-charging-micro-
 [monoprice releasable cable tie](https://www.amazon.com/Monoprice-105799-10-Inch-Releasable-100-Piece/dp/B003L11F5Y)
 
 
-Additional Materials - optional, to add 1/4 inch nut for tripod mounting
+### Additional Materials - optional, to add 1/4 inch nut for tripod mounting
+
 M2x8mm socket head cap screw x3
+
 M2 Nut x3
+
 1/4"-20 hex nut x1
+
 Nut_Plate_V1.1.STL (from thingiverse)
 
 
