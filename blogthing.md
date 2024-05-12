@@ -66,8 +66,9 @@ Nut_Plate_V1.1.STL (from thingiverse)
 ## Some Random Drone I Scavenged
 
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg" width=50% height=50%>
+https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg
 
-
+<img src="blogthingimages/drone1-1.jpg" width=50% height=50%>
 
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-2.jpg" width=50% height=50%>
 
