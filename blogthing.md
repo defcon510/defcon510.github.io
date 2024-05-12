@@ -64,6 +64,8 @@ Nut_Plate_V1.1.STL (from thingiverse)
 
 ## TEST
 
+xx
+
 blogthingimages/drone1-1.jpg
 
 <img src="https://defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
