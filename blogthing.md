@@ -1,13 +1,13 @@
 # Blog Thing
 
-Meshtastic TTGO Build Guide / casemods
+## Meshtastic TTGO Build Guide / casemods
 
-RADIO
+### RADIO
 
 [we like the 915mhz radio with the presoldered oled and the preloaded meshtastic](https://www.lilygo.cc/products/t-beam-v1-1-esp32-lora-module?variant=43059202719925)
 
 
-CASE
+### CASE
 
 [brian's thingiverse](https://www.thingiverse.com/thing:4677388)
 
@@ -52,14 +52,14 @@ Nut_Plate_V1.1.STL (from thingiverse)
 
 
 
-SmartyAnts Phonics Pupper
+## SmartyAnts Phonics Pupper
 
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/phonicspupper-labels-finished.jpg" width=50% height=50%>
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/phonicspupper-jAP3OpMi.jpg" width=50% height=50%>
 
 
 
-Some Random Drone I Scavenged
+## Some Random Drone I Scavenged
 
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg" width=50% height=50%>
 
