@@ -64,6 +64,10 @@ Nut_Plate_V1.1.STL (from thingiverse)
 
 ## TEST
 
+blogthingimages/drone1-1.jpg
+
+<img src="https://defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
+
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
 
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg" width=50% height=50%>
