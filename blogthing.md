@@ -62,8 +62,19 @@ Nut_Plate_V1.1.STL (from thingiverse)
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/phonicspupper-jAP3OpMi.jpg" width=50% height=50%>
 
 
+## TEST
+
+<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
+
+<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg" width=50% height=50%>
+
+<img src="blogthingimages/drone1-1.jpg" width=50% height=50%>
 
 ## Some Random Drone I Scavenged
+
+
+<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
+
 
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg" width=50% height=50%>
 https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg
