@@ -4,11 +4,12 @@ Meshtastic TTGO Build Guide / casemods
 
 RADIO
 
-https://www.lilygo.cc/products/t-beam-v1-1-esp32-lora-module?variant=43059202719925
+[we like the 915mhz radio with the presoldered oled and the preloaded meshtastic](https://www.lilygo.cc/products/t-beam-v1-1-esp32-lora-module?variant=43059202719925)
+
 
 CASE
 
-https://www.thingiverse.com/thing:4677388
+[brian's thingiverse](https://www.thingiverse.com/thing:4677388)
 
 ttgo_T-Beam_Case_-_Button_V1.0.STL
 
@@ -26,7 +27,9 @@ M2x20 bolts x4
 
 an easy-print version of the shielded antenna top we got from that other site:
 
+[link]()
 
+[link]()
 
 
 The cable that the thingiverse creator suggested is no longer available (at least not on US amazon) so you can use this one instead and just download a case base mod we got from that other website so you can plug it in
