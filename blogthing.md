@@ -62,66 +62,28 @@ Nut_Plate_V1.1.STL (from thingiverse)
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/phonicspupper-jAP3OpMi.jpg" width=50% height=50%>
 
 
-## TEST
 
-new test
-![img|320x271](blogthingimages/drone1-1.jpg)
-xx2
-![img](blogthingimages/drone1-1.jpg)
-raw test
-
-https://raw.githubusercontent.com/defcon510/defcon510.github.io/master/blogthingimages/drone1-1.jpg
-<img src="[https://defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg](https://raw.githubusercontent.com/defcon510/defcon510.github.io/master/blogthingimages/drone1-1.jpg)">
-
-xx
-
-blogthingimages/drone1-1.jpg
-
-<img src="https://defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg" width=50% height=50%>
-
-<img src="blogthingimages/drone1-1.jpg" width=50% height=50%>
 
 ## Some Random Drone I Scavenged
 
+![img](blogthingimages/drone1-1.jpg)
 
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg">
+![img](blogthingimages/drone1-2.jpg)
 
+![img](blogthingimages/drone1-3.jpg)
 
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg" width=50% height=50%>
-https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-1.jpg
+![img](blogthingimages/drone2-1.jpg)
 
-<img src="blogthingimages/drone1-1.jpg" width=50% height=50%>
+![img](blogthingimages/drone2-2.jpg)
 
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-2.jpg" width=50% height=50%>
+![img](blogthingimages/drone2-3.jpg)
 
+![img](blogthingimages/drone2-4.jpg)
 
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone1-3.jpg" width=50% height=50%>
+![img](blogthingimages/drone3-1.jpg)
 
+![img](blogthingimages/drone3-2.jpg)
 
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone2-1.jpg" width=50% height=50%>
+![img](blogthingimages/drone3-3.jpg)
 
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone2-2.jpg" width=50% height=50%>
-
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone2-3.jpg" width=50% height=50%>
-
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone2-4.jpg" width=50% height=50%>
-
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone3-1.jpg" width=50% height=50%>
-
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone3-2.jpg" width=50% height=50%>
-
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone3-3.jpg" width=50% height=50%>
-
-
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/drone3-4.jpg" width=50% height=50%>
-
+![img](blogthingimages/drone3-4.jpg)
