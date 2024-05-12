@@ -27,16 +27,19 @@ M2x20 bolts x4
 
 an easy-print version of the shielded antenna top we got from that other site:
 
-[link]()
+[case top with antenna sleeve](blogthingfiles/ttgo-antennatop-printable.stl)
 
-[link]()
+[antennacap](blogthingfiles/ttgo-antennacap.stl)
+
 
 
 The cable that the thingiverse creator suggested is no longer available (at least not on US amazon) so you can use this one instead and just download a case base mod we got from that other website so you can plug it in
 
 https://www.tvcmall.com/details/topk-am23-nylon-braided-magnetic-charging-micro-usb-cable-with-led-display-black-sku801203113a.html
 
+[base plate with extended legs](blogthingfiles/ttgo-longlegsbase.stl)
 
+[monoprice releasable cable tie](https://www.amazon.com/Monoprice-105799-10-Inch-Releasable-100-Piece/dp/B003L11F5Y)
 
 
 Additional Materials - optional, to add 1/4 inch nut for tripod mounting
