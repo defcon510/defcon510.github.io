@@ -1,4 +1,51 @@
 # Blog Thing
+
+Meshtastic TTGO Build Guide / casemods
+
+RADIO
+
+https://www.lilygo.cc/products/t-beam-v1-1-esp32-lora-module?variant=43059202719925
+
+CASE
+
+https://www.thingiverse.com/thing:4677388
+
+ttgo_T-Beam_Case_-_Button_V1.0.STL
+
+Body_V1.1_-_Straps.STL
+
+
+Materials - not optional
+
+M3x16 bolts x8
+
+M3 nuts x8
+
+M2x20 bolts x4
+
+
+an easy-print version of the shielded antenna top we got from that other site:
+
+
+
+
+The cable that the thingiverse creator suggested is no longer available (at least not on US amazon) so you can use this one instead and just download a case base mod we got from that other website so you can plug it in
+
+https://www.tvcmall.com/details/topk-am23-nylon-braided-magnetic-charging-micro-usb-cable-with-led-display-black-sku801203113a.html
+
+
+
+
+Additional Materials - optional, to add 1/4 inch nut for tripod mounting
+M2x8mm socket head cap screw x3
+M2 Nut x3
+1/4"-20 hex nut x1
+Nut_Plate_V1.1.STL (from thingiverse)
+
+
+
+
+
 SmartyAnts Phonics Pupper
 
 <img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/phonicspupper-labels-finished.jpg" width=50% height=50%>
