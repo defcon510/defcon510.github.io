@@ -55,12 +55,10 @@ Nut_Plate_V1.1.STL (from thingiverse)
 
 
 
-
 ## SmartyAnts Phonics Pupper
 
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/phonicspupper-labels-finished.jpg" width=50% height=50%>
-<img src="https://github.com/defcon510/defcon510.github.io/blob/master/blogthingimages/phonicspupper-jAP3OpMi.jpg" width=50% height=50%>
-
+![img](blogthingimages/phonicspupper-labels-finished.jpg)
+![img](blogthingimages/phonicspupper-jAP3OpMi.jpg)
 
 
 
