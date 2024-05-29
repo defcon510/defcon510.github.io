@@ -5,7 +5,8 @@ Our next regularly scheduled meeting is:
 
 ### Monday, Monday, June 10th
 
-That's like 5 days before opensauce
+That's like 5 days before opensauce!
+
 it costs a lot of money! some of us will be going, some of us will be going to the afterparty, some of us will be in the water. We'll let YOU know which one of those is the meta, Monday, June 10th.
 
 
