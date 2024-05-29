@@ -1,11 +1,12 @@
-# DC510: We Got Hype For Bsides
+# DC510: The Sauce May Or May Not Be Open
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, April 13, 2024
+### Monday, Monday, June 10th
 
-We'll probably be talking about how great (?) bsides was and what we're thinking about in regards to opensauce.
+That's like 5 days before opensauce
+it costs a lot of money! some of us will be going, some of us will be going to the afterparty, some of us will be in the water. We'll let YOU know which one of those is the meta, Monday, June 10th.
 
 
 If you have any additional questions, email
