@@ -1,14 +1,14 @@
-# DC510: The Sauce May Or May Not Be Open
+# DC510: OMG ITS TIME AGAIN
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, Monday, June 10th
+### Monday, July 8
 
-That's like 5 days before opensauce!
+defcon in ONE MONTH
+freak out about it NOW
 
-it costs a lot of money! some of us will be going, some of us will be going to the afterparty, some of us will be in the water. We'll let YOU know which one of those is the meta, Monday, June 10th.
-
+if you're going to defcon for the first time stop by we'll make it only normal levels of scary
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
