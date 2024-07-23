@@ -1,14 +1,11 @@
-# DC510: OMG ITS TIME AGAIN
+# DC510: DEFCON
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
-### Monday, July 8
+### Monday, September 9
 
-defcon in ONE MONTH
-freak out about it NOW
-
-if you're going to defcon for the first time stop by we'll make it only normal levels of scary
+august meeting cancelled bc were at defcon lol
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
