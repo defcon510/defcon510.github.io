@@ -6,6 +6,7 @@ Our next regularly scheduled meeting is:
 ### Monday, September 9
 
 we'll probably be talking about what we learned at defcon. did we learn anything at defcon? i hope so; anyway you'll FIND OUT on Monday, one week after labor day
+
 also we should probably start planning for the holiday months so those of us who aren't spending christmas at the family estate have something to do
 
 If you have any additional questions, email
