@@ -1,11 +1,12 @@
-# DC510: DEFCON
+# DC510: well we just did that
 Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
 
 Our next regularly scheduled meeting is:
 
 ### Monday, September 9
 
-august meeting cancelled bc were at defcon lol
+we'll probably be talking about what we learned at defcon. did we learn anything at defcon? i hope so; anyway you'll FIND OUT on Monday, one week after labor day
+also we should probably start planning for the holiday months so those of us who aren't spending christmas at the family estate have something to do
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
