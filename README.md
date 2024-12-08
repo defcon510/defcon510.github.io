@@ -3,11 +3,11 @@ Meetings are usually on the second Monday of each month, immediately following C
 
 Our next regularly scheduled meeting is:
 
-### Monday, September 9
+### Monday, December 9
 
-we'll probably be talking about what we learned at defcon. did we learn anything at defcon? i hope so; anyway you'll FIND OUT on Monday, one week after labor day
+it's our LAST EVER MEETING
 
-also we should probably start planning for the holiday months so those of us who aren't spending christmas at the family estate have something to do
+at this location anyway. Might be kinda quiet for the holidays.
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
