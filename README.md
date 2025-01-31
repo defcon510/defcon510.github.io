@@ -6,7 +6,9 @@ Our next regularly scheduled meeting is:
 ### SUNday, Feb 9
 
 it's near the Ashby BART, at 11 AM, yes, that's in daylight
+
 contact us if you need to know where to go after the BART
+
 remember your sunblock
 
 If you have any additional questions, email
