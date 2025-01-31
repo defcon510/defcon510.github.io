@@ -1,22 +1,22 @@
-# DC510: well we just did that
-Meetings are usually on the second Monday of each month, immediately following Cyberpunk Cinema at the Knockout SF.
+# DC510: construction time again
+Meetings are usually on or around the second Monday of each month.
 
 Our next regularly scheduled meeting is:
 
-### Monday, December 9
+### SUNday, Feb 9
 
-it's our LAST EVER MEETING
-
-at this location anyway. Might be kinda quiet for the holidays.
+it's near the Ashby BART, at 11 AM, yes, that's in daylight
+contact us if you need to know where to go after the BART
+remember your sunblock
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
 Please do not talk business in depth over e-mail. If you're going to be late and want us to wait up after the movie (or if you just want to skip the movie and come to the meeting), send an RSVP and we'll wait around for you.
 
 
-**Knockout SF, isn't that..?**
+**UNDER CONSTRUCTION**
 
-It's SF, yeah. DC510 meetings will always be near a BART station. For now, Cyberpunk Cinema is a friendly environment, and it's conveniently close in time and location to Deathguild. We can move if we find a find a better venue, and are exploring meeting more than once each month. Be advised, the folks at The Knockout are super nice and will not vomit on you for trying to enjoy their wonderful establishment. Drinks are super cheap there at any hour, too.
+UNDER CONSTRUCTION
 
 
 **Why Does DC510 Exist?**
