@@ -3,7 +3,7 @@ Meetings are usually on or around the second Monday of each month.
 
 Our next regularly scheduled meeting is:
 
-### SUNday, Feb 9
+### SUNday, Mar 16
 
 it's near the Ashby BART, at 11 AM, yes, that's in daylight
 
@@ -13,7 +13,7 @@ remember your sunblock
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
-Please do not talk business in depth over e-mail. If you're going to be late and want us to wait up after the movie (or if you just want to skip the movie and come to the meeting), send an RSVP and we'll wait around for you.
+Please do not talk business in depth over e-mail. We used to say "RSVP if you want us to wait" but contact methods have become unreliable with recent changes to Twitter and Protonmail.
 
 
 **UNDER CONSTRUCTION**
