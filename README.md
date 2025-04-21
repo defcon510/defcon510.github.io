@@ -3,11 +3,9 @@ Meetings are usually on or around the second Monday of each month.
 
 Our next regularly scheduled meeting is:
 
-### SUNday, Mar 16
+### BSidesSF, Apr 26-27
 
-it's near the Ashby BART, at 11 AM, yes, that's in daylight
-
-contact us if you need to know where to go after the BART
+Sorry for the late update! This month, we'll be at BSidesSF from Apr 26-27! Some of us will also be at Hackthebay on April 28. We might be meeting up on the patio at BSides, and me might just be enjoying a paloma slushie after. We'll see!
 
 remember your sunblock
 
