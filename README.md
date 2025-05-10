@@ -3,11 +3,11 @@ Meetings are usually on or around the second Monday of each month.
 
 Our next regularly scheduled meeting is:
 
-### BSidesSF, Apr 26-27
+### Sunday May 18, 2025
 
-Sorry for the late update! This month, we'll be at BSidesSF from Apr 26-27! Some of us will also be at Hackthebay on April 28. We might be meeting up on the patio at BSides, and me might just be enjoying a paloma slushie after. We'll see!
+it's mom respecting season this month at dc510 and out of a respect for moms we're moving this months meeting to Sunday, May 18, at Prescott Market in oakland
 
-remember your sunblock
+they have the beer, they have the noodles, do they have the vibes? COME FIND OUT
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
