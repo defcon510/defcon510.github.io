@@ -1,13 +1,15 @@
-# DC510: construction time again
+# DC510: oh no its almost august
 Meetings are usually on or around the second Monday of each month.
 
 Our next regularly scheduled meeting is:
 
-### Sunday May 18, 2025
+### Sunday July 13, 2025, 11 AM
 
-it's mom respecting season this month at dc510 and out of a respect for moms we're moving this months meeting to Sunday, May 18, at Prescott Market in oakland
+the LAST MEETING BEFORE DEFCON (ooo)
 
-they have the beer, they have the noodles, do they have the vibes? COME FIND OUT
+Field trip after!
+
+Near the Ashby BART
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
