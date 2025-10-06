@@ -1,13 +1,13 @@
-# DC510: we did it reddit
-Meetings are usually on or around the second Monday of each month.
+# DC510: spooky timez again
+Meetings are usually on or around the Sunday next to the second Monday of each month (there are historical reasons for this)
 
 Our next regularly scheduled meeting is:
 
-### Sunday September 7, 2025, 11 AM
+### Sunday October 12, 2025, 11 AM
 
 Near the Ashby BART
 
-BUT ALSO many of us will be at the DNA Lounge on Friday, Aug 5 for the 30th anniversary of Hackers. Regretting the painful but inevitable progression of time? We know we are!
+we kind of missed the field trip in september so we also have to make that up
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
