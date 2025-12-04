@@ -1,13 +1,13 @@
-# DC510: spooky timez again
+# DC510: jolly timez again
 Meetings are usually on or around the Sunday next to the second Monday of each month (there are historical reasons for this)
 
 Our next regularly scheduled meeting is:
 
-### Sunday October 12, 2025, 11 AM
+### Sunday December 14, 2025, 11 AM
 
 Near the Ashby BART
 
-we kind of missed the field trip in september so we also have to make that up
+just NINE DAYS FROM CHRISTMAS. haven't finished your shopping? buy your loved ones a fruit and or vegetable from the berkeley bowl, that's right near the bart
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
