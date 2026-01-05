@@ -1,13 +1,13 @@
-# DC510: jolly timez again
+# DC510: 2026 skull emoji
 Meetings are usually on or around the Sunday next to the second Monday of each month (there are historical reasons for this)
 
 Our next regularly scheduled meeting is:
 
-### Sunday December 14, 2025, 11 AM
+### Sunday January 11, 2026, 11 AM
 
 Near the Ashby BART
 
-just NINE DAYS FROM CHRISTMAS. haven't finished your shopping? buy your loved ones a fruit and or vegetable from the berkeley bowl, that's right near the bart
+congrats to everyone who survived the holidays! i bet we'll be talking a bunch about 39C3 talks
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
