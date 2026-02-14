@@ -3,11 +3,11 @@ Meetings are usually on or around the Sunday next to the second Monday of each m
 
 Our next regularly scheduled meeting is:
 
-### Sunday January 11, 2026, 11 AM
+### Sunday February 22, 2026, 11 AM
 
 Near the Ashby BART
 
-congrats to everyone who survived the holidays! i bet we'll be talking a bunch about 39C3 talks
+probably we'll be talking about BSides SF, coming up in March (the march meeting will likely be cancelled so we can attend)
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
