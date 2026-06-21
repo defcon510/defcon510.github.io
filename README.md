@@ -1,13 +1,13 @@
-# DC510: ninjas are legal now
+# DC510: oh no its july again
 Meetings are usually on or around the Sunday next to the second Monday of each month (there are historical reasons for this)
 
 Our next regularly scheduled meeting is:
 
-### Sunday April 12, 2026, 11 AM
+### Sunday July, 2026, 11 AM
 
 Near the Ashby BART
 
-We'll probably be doing a bsides review. LIVE NUNCHUCK DEMO IN PARKING LOT? probably not, no
+we'll of course be talking about defcon 34, like, we gotta, that's our thing
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
