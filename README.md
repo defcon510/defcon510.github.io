@@ -1,9 +1,9 @@
-# DC510: oh no its july again
+# DC510: spooky season
 Meetings are usually on or around the Sunday next to the second Monday of each month (there are historical reasons for this)
 
 Our next regularly scheduled meeting is:
 
-### Sunday July, 2026, 11 AM
+### Sunday November, 2026, 11 AM
 
 Near the Ashby BART
 
