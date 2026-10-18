@@ -1,4 +1,4 @@
-# DC510: spooky season
+# DC510: tofurky season
 Meetings are usually on or around the Sunday next to the second Monday of each month (there are historical reasons for this)
 
 Our next regularly scheduled meeting is:
