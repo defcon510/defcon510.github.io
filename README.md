@@ -3,11 +3,11 @@ Meetings are usually on or around the Sunday next to the second Monday of each m
 
 Our next regularly scheduled meeting is:
 
-### Sunday November, 2026, 11 AM
+### Sunday November 8, 2026, 11 AM
 
 Near the Ashby BART
 
-we'll of course be talking about defcon 34, like, we gotta, that's our thing
+we'll probably be talking about holiday projects and things to do while we're between events. maybe 40C3, if you're lucky!
 
 If you have any additional questions, email
 address dc510 at the domain protonmail dot com
